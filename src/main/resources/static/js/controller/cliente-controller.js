@@ -1,6 +1,6 @@
 appCliente.controller("clienteController", function($scope, $http) {
 	
-	$scope.nome = "jão";
+	$scope.nome = "";
 	$scope.clientes = [];
 	$scope.cliente = {};
 	
