@@ -11,6 +11,7 @@ public class ApiwebApplicationTests {
 
 	@Test
 	public void contextLoads() {
+		system.out.println("oi");
 	}
 
 }
